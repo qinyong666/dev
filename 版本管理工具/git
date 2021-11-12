@@ -1,0 +1,4 @@
+### fork仓库进行merge
+git checkout DEFAULT_BRANCH_NAME
+git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+git push origin DEFAULT_BRANCH_NAME
